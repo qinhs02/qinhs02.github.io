@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Harbin Institute of Technology</a>. Harbin, China. 21B901107@stu.hit.edu.cn. 18846055221.
+subtitle: <a href='#'>Harbin Institute of Technology</a>. Harbin, China. 21B901107@stu.hit.edu.cn.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hongsheng Qin</p>
+    <p>Hongsheng Qin, 18846055221</p>
     <p>Harbin Institute of Technology Science Park</p>
     <p>Harbin, No. 2 Yikuang Street, Nangang District</p>
 
