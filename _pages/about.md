@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Harbin Institute of Technology</a>. Harbin, China. 21B901107@stu.hit.edu.cn. 18846055221.
 
 profile:
   align: right
