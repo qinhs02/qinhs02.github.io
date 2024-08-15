@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Long working distance smartphone microscope
+description: Metallic Mesh Defect Detection Based on Low‑Rank Decomposition via Schatten Capped p Norm
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: defect detection and smartphone microscope
 related_publications: true
 ---
 
