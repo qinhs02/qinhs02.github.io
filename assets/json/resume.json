@@ -2,7 +2,7 @@
   "basics": {
     "name": "Hongsheng Qin",
     "label": "doctoral student",
-    "image": "prof_pic.jpg",
+    "image": "img\prof_pic.jpg",
     "email": "21b901107@stu.hit.edu.cn",
     "phone": "18846055221",
     "url": "https://qinhs02.github.io/",
@@ -24,16 +24,27 @@
   },
     "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": " Harbin Institute of Technology",
+      "location": "Harbin, China",
+      "url": "http://www.hit.edu.cn/",
+      "area": "Computer vision and computational imaging",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "startDate": "2021-09-01",
+      "endDate": "2027-09-01",
+      "score": "89",
       "courses": ["Theory of Relativity"]
-    }
+    },
+   {
+      "institution": " North China Electric Power University",
+      "location": "Baoding, China",
+      "url": "https://net.ncepu.edu.cn/",
+      "area": "Automation & Instrumentation",
+      "studyType": "Bachelor",
+      "startDate": "2017-09-01",
+      "endDate": "2021-09-01",
+      "ranking": "1/102",
+      "courses": ["Theory of Relativity"]
+    },      
   ],
   "volunteer": [
     {
