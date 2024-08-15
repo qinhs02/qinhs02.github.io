@@ -2,11 +2,19 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hongsheng Qin
+    - name: School
+      value: Harbin Institute of Technology
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th Augest 1999
     - name: Languages
-      value: English, German
+      value: Chinese, English
+    - name: contact information
+     value: 21B901017@stu.hit.edu.cn
+    - name: Research Direction
+     value: Defect detection and computational imaging
+    - name: address
+     value: Harbin Institute of Technology Science Park, Harbin, No. 2 Yikuang Street, Nangang District.
 
 - title: Education
   type: time_table
