@@ -32,7 +32,7 @@
       "startDate": "2021-09-01",
       "endDate": "2027-09-01",
       "score": "89",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Vision Measurement and Systems","Theory of Instrument Accuracy","digital signal processing","Wavelet Theory and Applications"]
     },
    {
       "institution": " North China Electric Power University",
@@ -43,7 +43,7 @@
       "startDate": "2017-09-01",
       "endDate": "2021-09-01",
       "ranking": "1/102",
-      "courses": ["Theory of Relativity"]
+      "courses": ["artificial intelligence (AI)","deep learning","automatic control theory","Process Control Theory","Digital Image Processing"]
     },      
   ],
   "volunteer": [
